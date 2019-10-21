@@ -1,0 +1,2 @@
+# Lutherbibel 2017
+Beim Lesen solch umfangreicher digitaler Werke wie der sonst äußerst gut gelungenen Lutherbibel 2017 können sich Psalmangaben und Anmerkungen störend auf den Lesefluss auswirken. Die beiliegende, auf das Wesentliche reduzierte Version soll hierbei nützlich sein.
